@@ -12,7 +12,7 @@ Watch the demonstration of these projects here:
 
 ---
 
-## Task 1: Registration Form (40 Marks)
+## Task 1: Registration Form 
 
 ### Description
 A responsive and visually appealing registration card form created using **HTML** and **CSS**.  
@@ -37,7 +37,7 @@ The form includes the following fields:
 
 ---
 
-## Task 2: Task Manager (60 Marks)
+## Task 2: Task Manager
 
 ### Description
 A simple Task Manager web app using **JavaScript DOM manipulation** and **Bootstrap** for layout and styling.  
