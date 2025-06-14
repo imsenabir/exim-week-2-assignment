@@ -8,7 +8,7 @@ This repository contains two projects demonstrating front-end web development sk
 
 Watch the demonstration of these projects here:
 
-[![Project Video Presentation](https://drive.google.com/file/d/1KfSO6OcJr6ZbbgbLVq4EWFRYWEnJF5xE/view)]
+[Project Video Presentation](https://drive.google.com/file/d/1KfSO6OcJr6ZbbgbLVq4EWFRYWEnJF5xE/view)
 
 ---
 
@@ -71,7 +71,7 @@ A simple Task Manager web app using **JavaScript DOM manipulation** and **Bootst
 
 ## Author
 
-Your Name / Imsen
+Imsen
 
 ---
 
