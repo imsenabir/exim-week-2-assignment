@@ -4,6 +4,14 @@ This repository contains two projects demonstrating front-end web development sk
 
 ---
 
+## Video Presentation
+
+Watch the demonstration of these projects here:
+
+[![Project Video Presentation](https://drive.google.com/file/d/1KfSO6OcJr6ZbbgbLVq4EWFRYWEnJF5xE/view)]
+
+---
+
 ## Task 1: Registration Form (40 Marks)
 
 ### Description
@@ -49,18 +57,6 @@ A simple Task Manager web app using **JavaScript DOM manipulation** and **Bootst
 
 - Open the HTML files in any modern browser  
 - For Task 2, tasks will be saved in your browser's localStorage automatically  
-
----
-
-## Video Presentation
-
-Watch the demonstration of these projects here:
-
-[![Project Video Presentation](https://img.youtube.com/vi/1KfSO6OcJr6ZbbgbLVq4EWFRYWEnJF5xE/0.jpg)](https://drive.google.com/file/d/1KfSO6OcJr6ZbbgbLVq4EWFRYWEnJF5xE/view)
-
-Or click the link below to watch the video:
-
-[Video Presentation](https://drive.google.com/file/d/1KfSO6OcJr6ZbbgbLVq4EWFRYWEnJF5xE/view)
 
 ---
 
